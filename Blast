@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1728339722,
+	"Version": 1733673974,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -25,6 +25,7 @@
 				"60",
 				"246",
 				"27",
+				"273",
 				"30",
 				"33",
 				"248",
@@ -37,6 +38,7 @@
 				"262",
 				"55",
 				"56",
+				"274",
 				"252",
 				"66",
 				"68",
@@ -59,6 +61,7 @@
 				"98",
 				"99",
 				"100",
+				"275",
 				"108",
 				"110",
 				"263",
@@ -74,6 +77,7 @@
 			],
 			"KillerIndvPerkBans": [
 				"133",
+				"270",
 				"134",
 				"245",
 				"147",
@@ -89,6 +93,7 @@
 				"170",
 				"171",
 				"175",
+				"183",
 				"264",
 				"186",
 				"265",
@@ -96,10 +101,12 @@
 				"196",
 				"198",
 				"201",
+				"271",
 				"205",
 				"209",
 				"213",
 				"216",
+				"272",
 				"227",
 				"229",
 				"231",
@@ -1914,7 +1921,8 @@
 				418,
 				417,
 				410,
-				412
+				412,
+				416
 			],
 			"ItemWhitelist": [
 				4,
@@ -2534,7 +2542,8 @@
 			"IndividualAddonBans": [
 				557,
 				558,
-				554
+				554,
+				555
 			],
 			"ItemWhitelist": [
 				0,
@@ -3340,6 +3349,54 @@
 			"KillerOfferings": [
 				5
 			]
+		},
+		{
+			"Name": "The Houndmaster",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }
